@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajnairx&label=Profile%20views&color=0e75b6&style=flat" alt="surajnairx" /> </p>
 
-- 🔭 I’m currently working on **CodePen Clone**
+- 🔭 I’m currently working on **Crypto App**
 
 - 🌱 I’m currently learning **React.js**
 
