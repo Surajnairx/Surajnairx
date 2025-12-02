@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Front-End Development, MEARN**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **surajnair9698@gmail.com**
 
